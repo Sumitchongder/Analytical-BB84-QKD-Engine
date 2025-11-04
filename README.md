@@ -4,6 +4,9 @@
 ### **Team Members:** Sumit Tapas Chongder [M25IQT013]
 ### **Hackathon:** Qiskit Fall Fest 2025  
 ### **Project:** Analytical Acceleration of the BB84 Protocol — An Interactive Framework for Quantum Key Distribution Security Analysis
+### **Achievement:** 🏆 First-Place Winner at Qiskit Fall Fest 2025 Hackathon 
+
+<img width="2717" height="1765" alt="Image" src="https://github.com/user-attachments/assets/c4a9b116-c89f-45de-bcf1-3bd8ba55c042" />
 
 ---
 
