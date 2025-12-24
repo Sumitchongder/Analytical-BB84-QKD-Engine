@@ -25,7 +25,7 @@ You may contribute through:
 2. Clone your fork locally:
    ```bash
    git clone https://github.com/your-username/analytical-bb84-qkd.git
-````
+   ````
 
 3. Create a new branch:
 
