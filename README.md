@@ -7,6 +7,8 @@
 ### **Achievement:** 🏆 First-Place Winner at Qiskit Fall Fest 2025 Hackathon 
 
 <img width="2717" height="1765" alt="Image" src="https://github.com/user-attachments/assets/c4a9b116-c89f-45de-bcf1-3bd8ba55c042" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/5b919f93-301c-402f-9492-48257b68fde4" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/2d8bcf6e-1d79-4c2d-899c-ace3c999a858" />
 
 ---
 
